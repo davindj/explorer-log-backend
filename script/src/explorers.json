@@ -1,0 +1,879 @@
+[
+	{
+		"name": "Alamsyah Oktavian Santoso",
+		"expertise": 1,
+		"image": "/img/Alamsyah-Oktavian-Santoso.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Bramantya Putra Teja",
+		"expertise": 1,
+		"image": "/img/Bramantya-Putra-Teja.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Henry David Lie",
+		"expertise": 0,
+		"image": "/img/Henry-David-Lie.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Jonathan Andrei Wibawa",
+		"expertise": 0,
+		"image": "/img/Jonathan-Andrei-Wibawa.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Natasya Dahliana Lulu",
+		"expertise": 0,
+		"image": "/img/Natasya-Dahliana-Lulu.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Dhienaqueen",
+		"expertise": 1,
+		"image": "/img/Dhienaqueen.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Jessica Wienadi",
+		"expertise": 0,
+		"image": "/img/Jessica-Wienadi.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Kezia Yovita Chandra",
+		"expertise": 0,
+		"image": "/img/Kezia-Yovita-Chandra.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Willy Yunus Islami",
+		"expertise": 0,
+		"image": "/img/Willy-Yunus-Islami.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Adimas Surya Perdana Putra",
+		"expertise": 0,
+		"image": "/img/Adimas-Surya-Perdana-Putra.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Bevan Christian",
+		"expertise": 0,
+		"image": "/img/Bevan-Christian.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Raden Roro Ayunda Yahdis Sabila",
+		"expertise": 1,
+		"image": "/img/Raden-Roro-Ayunda-Yahdis-Sabila.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ricky Gideon Iskandar Daun",
+		"expertise": 0,
+		"image": "/img/Ricky-Gideon-Iskandar-Daun.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Felicia Devina Siswanto",
+		"expertise": 0,
+		"image": "/img/Felicia-Devina-Siswanto.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Fransiscus Verrol Yaurentius",
+		"expertise": 0,
+		"image": "/img/Fransiscus-Verrol-Yaurentius.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Naufal Aziz Imaduddin",
+		"expertise": 1,
+		"image": "/img/Naufal-Aziz-Imaduddin.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Samuel Putra Soegiono",
+		"expertise": 2,
+		"image": "/img/Samuel-Putra-Soegiono.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Shelina Linardi",
+		"expertise": 0,
+		"image": "/img/Shelina-Linardi.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Davin Djayadi",
+		"expertise": 0,
+		"image": "/img/Davin-Djayadi.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Geralda Carnelian Tantra",
+		"expertise": 1,
+		"image": "/img/Geralda-Carnelian-Tantra.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Sadrakh Setyo Bekti",
+		"expertise": 2,
+		"image": "/img/Sadrakh-Setyo-Bekti.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Vincentius Phillips Zhuputra",
+		"expertise": 0,
+		"image": "/img/Vincentius-Phillips-Zhuputra.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Zefanya Sharon",
+		"expertise": 0,
+		"image": "/img/Zefanya-Sharon.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ahmad Nur Alifullah",
+		"expertise": 0,
+		"image": "/img/Ahmad-Nur-Alifullah.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Alvin Hariyono",
+		"expertise": 0,
+		"image": "/img/Alvin-Hariyono.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Jessica Vania",
+		"expertise": 1,
+		"image": "/img/Jessica-Vania.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Kevin Jonathan",
+		"expertise": 0,
+		"image": "/img/Kevin-Jonathan.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Dandy Rilo Hariyono",
+		"expertise": 2,
+		"image": "/img/Dandy-Rilo-Hariyono.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "David Aurelius Tandjung",
+		"expertise": 0,
+		"image": "/img/David-Aurelius-Tandjung.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Muhammad Alkaff",
+		"expertise": 0,
+		"image": "/img/Muhammad-Alkaff.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Nadya Natasha",
+		"expertise": 1,
+		"image": "/img/Nadya-Natasha.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Winner Tjandrawan",
+		"expertise": 0,
+		"image": "/img/Winner-Tjandrawan.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Angelica Roseanne",
+		"expertise": 0,
+		"image": "/img/Angelica-Roseanne.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Fredrik Pridatirta",
+		"expertise": 1,
+		"image": "/img/Fredrik-Pridatirta.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Michael Hans Kristian Hardjo",
+		"expertise": 0,
+		"image": "/img/Michael-Hans-Kristian-Hardjo.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Priscilla Vanny Amelia",
+		"expertise": 0,
+		"image": "/img/Priscilla-Vanny-Amelia.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Adam Gilbert",
+		"expertise": 2,
+		"image": "/img/Adam-Gilbert.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Indi Amelia Kusuma",
+		"expertise": 1,
+		"image": "/img/Indi-Amelia-Kusuma.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Melisa Krisnawati",
+		"expertise": 0,
+		"image": "/img/Melisa-Krisnawati.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Reinaldo Lewis Lordianto",
+		"expertise": 0,
+		"image": "/img/Reinaldo-Lewis-Lordianto.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Wildan Ghiffarie Budhi",
+		"expertise": 0,
+		"image": "/img/Wildan-Ghiffarie-Budhi.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Dimas Agung Prabowo",
+		"expertise": 0,
+		"image": "/img/Dimas-Agung-Prabowo.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Risa Santoso",
+		"expertise": 2,
+		"image": "/img/Risa-Santoso.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Rubby Handojo",
+		"expertise": 0,
+		"image": "/img/Rubby-Handojo.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Shelin Kezia Handoko",
+		"expertise": 1,
+		"image": "/img/Shelin-Kezia-Handoko.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Yanandra Dhafa",
+		"expertise": 0,
+		"image": "/img/Yanandra-Dhafa.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ammar",
+		"expertise": 0,
+		"image": "/img/Ammar.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Jennifer Nathania",
+		"expertise": 1,
+		"image": "/img/Jennifer-Nathania.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Neville Natalio Davisan",
+		"expertise": 0,
+		"image": "/img/Neville-Natalio-Davisan.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Nicklaus Fumihiro Wibowo",
+		"expertise": 0,
+		"image": "/img/Nicklaus-Fumihiro-Wibowo.jpg",
+		"shift": 1,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ang Natasia Stephanie Setiyadi",
+		"expertise": 1,
+		"image": "/img/Ang-Natasia-Stephanie-Setiyadi.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Dzulfikar Ali Maskur",
+		"expertise": 0,
+		"image": "/img/Dzulfikar-Ali-Maskur.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Goldianus Solangius Mbete",
+		"expertise": 1,
+		"image": "/img/Goldianus-Solangius-Mbete.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Moh Supandi",
+		"expertise": 0,
+		"image": "/img/Moh-Supandi.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Wilfredo Alexander Sutanto",
+		"expertise": 0,
+		"image": "/img/Wilfredo-Alexander-Sutanto.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Bryan Khufa Rahmada Aula",
+		"expertise": 0,
+		"image": "/img/Bryan-Khufa-Rahmada-Aula.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Christine Chen",
+		"expertise": 2,
+		"image": "/img/Christine-Chen.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Stanislaus Sunday",
+		"expertise": 0,
+		"image": "/img/Stanislaus-Sunday.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Yayang Rahmadina",
+		"expertise": 0,
+		"image": "/img/Yayang-Rahmadina.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Yeremia Adicipta Santosa",
+		"expertise": 1,
+		"image": "/img/Yeremia-Adicipta-Santosa.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Evelin Candratio",
+		"expertise": 0,
+		"image": "/img/Evelin-Candratio.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Felyn Karina Bingtoyo",
+		"expertise": 1,
+		"image": "/img/Felyn-Karina-Bingtoyo.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Muhamad Thio Basudewo",
+		"expertise": 0,
+		"image": "/img/Muhamad-Thio-Basudewo.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ni Putu Mira Novita Dewi",
+		"expertise": 0,
+		"image": "/img/Ni-Putu-Mira-Novita-Dewi.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Lourensius Dani Anggara Putra",
+		"expertise": 0,
+		"image": "/img/Lourensius-Dani-Anggara-Putra.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Octavianus Bastian Adhitama",
+		"expertise": 0,
+		"image": "/img/Octavianus-Bastian-Adhitama.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Tito Guntur Safirda",
+		"expertise": 1,
+		"image": "/img/Tito-Guntur-Safirda.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Yusuf Umar Hanafi",
+		"expertise": 0,
+		"image": "/img/Yusuf-Umar-Hanafi.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Alfa Centaury Hidayatullah",
+		"expertise": 0,
+		"image": "/img/Alfa-Centaury-Hidayatullah.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Iqbal Maulana",
+		"expertise": 0,
+		"image": "/img/Iqbal-Maulana.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Marsha Antonia",
+		"expertise": 1,
+		"image": "/img/Marsha-Antonia.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Steven",
+		"expertise": 0,
+		"image": "/img/Steven.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Adhitya Laksamana Bayu Adrian",
+		"expertise": 0,
+		"image": "/img/Adhitya-Laksamana-Bayu-Adrian.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Helen Imanuel Hermanto",
+		"expertise": 1,
+		"image": "/img/Helen-Imanuel-Hermanto.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Octgi Ristya Perdana",
+		"expertise": 0,
+		"image": "/img/Octgi-Ristya-Perdana.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Refo Satya Pramudhito",
+		"expertise": 0,
+		"image": "/img/Refo-Satya-Pramudhito.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Septia Rosalina Malik",
+		"expertise": 0,
+		"image": "/img/Septia-Rosalina-Malik.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Aditya Agung Dwi R",
+		"expertise": 2,
+		"image": "/img/Aditya-Agung-Dwi-R.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Dimas Satria Bintang Prakasa",
+		"expertise": 0,
+		"image": "/img/Dimas-Satria-Bintang-Prakasa.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Novianto Hermawan",
+		"expertise": 0,
+		"image": "/img/Novianto-Hermawan.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ronaldo Kurswell",
+		"expertise": 1,
+		"image": "/img/Ronaldo-Kurswell.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Elbert Reyner Gunawan",
+		"expertise": 1,
+		"image": "/img/Elbert-Reyner-Gunawan.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Felinda Gracia Lubis",
+		"expertise": 0,
+		"image": "/img/Felinda-Gracia-Lubis.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Galang Aji Susanto",
+		"expertise": 0,
+		"image": "/img/Galang-Aji-Susanto.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Natanael Kenan Gunawan",
+		"expertise": 0,
+		"image": "/img/Natanael-Kenan-Gunawan.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Stephanie Hans Bunawan",
+		"expertise": 2,
+		"image": "/img/Stephanie-Hans-Bunawan.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Gilbert Soenjaya Gunawan",
+		"expertise": 2,
+		"image": "/img/Gilbert-Soenjaya-Gunawan.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Rivera",
+		"expertise": 1,
+		"image": "/img/Rivera.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Suwardhana",
+		"expertise": 0,
+		"image": "/img/Suwardhana.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "William Roland Hernando",
+		"expertise": 0,
+		"image": "/img/William-Roland-Hernando.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Zuhad Achmad Fachrian",
+		"expertise": 0,
+		"image": "/img/Zuhad-Achmad-Fachrian.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Aucky Riman Halim",
+		"expertise": 0,
+		"image": "/img/Aucky-Riman-Halim.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Laviana Halim",
+		"expertise": 1,
+		"image": "/img/Laviana-Halim.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Lidwina Santosa",
+		"expertise": 2,
+		"image": "/img/Lidwina-Santosa.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Namira Rizqi Annisa",
+		"expertise": 0,
+		"image": "/img/Namira-Rizqi-Annisa.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Arles Halley Asaeli",
+		"expertise": 0,
+		"image": "/img/Arles-Halley-Asaeli.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Chondro Satrio Wibowo",
+		"expertise": 0,
+		"image": "/img/Chondro-Satrio-Wibowo.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Edward Gunawan",
+		"expertise": 1,
+		"image": "/img/Edward-Gunawan.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Marshel Aditya Prayoga",
+		"expertise": 0,
+		"image": "/img/Marshel-Aditya-Prayoga.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Muhammad Hafiz Siregar",
+		"expertise": 0,
+		"image": "/img/Muhammad-Hafiz-Siregar.jpg",
+		"shift": 0,
+		"mentor": "Gabriele Wijasa",
+		"isMentor": false
+	},
+	{
+		"name": "Ari Kurniawan",
+		"expertise": 1,
+		"image": "/img/Ari-Kurniawan.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Bayu Prasetya",
+		"expertise": 1,
+		"image": "/img/Bayu-Prasetya.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Dickson Leonard",
+		"expertise": 0,
+		"image": "/img/Dickson-Leonard.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Fanny Halim",
+		"expertise": 0,
+		"image": "/img/Fanny-Halim.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Gabriele Wijasa",
+		"expertise": 1,
+		"image": "/img/Gabriele-Wijasa.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Januar Tanzil",
+		"expertise": 0,
+		"image": "/img/Januar-Tanzil.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Jaya Pranata",
+		"expertise": 0,
+		"image": "/img/Jaya-Pranata.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "John Alan Ketaren",
+		"expertise": 2,
+		"image": "/img/John-Alan-Ketaren.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Rachmat Kukuh Rahadiansyah",
+		"expertise": 0,
+		"image": "/img/Rachmat-Kukuh-Rahadiansyah.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Yehezkiel Cheryan Tjandra",
+		"expertise": 2,
+		"image": "/img/Yehezkiel-Cheryan-Tjandra.jpg",
+		"shift": 2,
+		"isMentor": true
+	},
+	{
+		"name": "Yulibar Husni",
+		"expertise": 0,
+		"image": "/img/Yulibar-Husni.jpg",
+		"shift": 2,
+		"isMentor": true
+	}
+]

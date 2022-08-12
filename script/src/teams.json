@@ -1,0 +1,342 @@
+[
+	{
+		"name": "Team 9 / Martian",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Movie",
+		"challengeStatement": "",
+		"members": [
+			"Aditya Agung Dwi R",
+			"Arles Halley Asaeli",
+			"Bryan Khufa Rahmada Aula",
+			"Elbert Reyner Gunawan",
+			"Lourensius Dani Anggara Putra"
+		],
+		"mentor": "Gabriele",
+		"app": "Cuflix"
+	},
+	{
+		"name": "Team 8 / Symphony no. 8",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Music",
+		"challengeStatement": "Help Prepare Indie Musician Ready to Jump Into Music Business",
+		"members": [
+			"Felinda Gracia Lubis",
+			"Octavianus Bastian Adhitama",
+			"William Roland Hernando",
+			"Novianto Hermawan",
+			"Adhitya Laksamana Bayu Adrian"
+		],
+		"mentor": "Ryan",
+		"app": "Bridge"
+	},
+	{
+		"name": "Team 1 / As Swift As Possible",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Technology",
+		"challengeStatement": "Technology",
+		"members": [
+			"Aucky Riman Halim",
+			"Yusuf Umar Hanafi",
+			"Zuhad Achmad Fachrian",
+			"Chondro Satrio Wibowo",
+			"Muhamad Thio Basudewo"
+		],
+		"mentor": "Januar",
+		"app": "As Swift As Possible"
+	},
+	{
+		"name": "Team 3 / MyPet",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Pets",
+		"challengeStatement": "Membantu pengguna dalam memilih hewan peliharaan berdasarkan faktor finansial",
+		"members": [
+			"Stephanie Hans Bunawan",
+			"Wilfredo Alexander Sutanto",
+			"Steven",
+			"Refo Satya Pramudhito",
+			"Ni Putu Mira Novita Dewi"
+		],
+		"mentor": "Jaya",
+		"app": "MyPet"
+	},
+	{
+		"name": "Team 7 / Food",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Food",
+		"challengeStatement": "Membantu membangun habit untuk menyeimbangkan kalori harian",
+		"members": [
+			"Christine Chen",
+			"Moh Supandi",
+			"Felyn Karina Bingtoyo",
+			"Galang Aji Susanto",
+			"Laviana Halim"
+		],
+		"mentor": "Yulibar",
+		"app": "Kilo Kalo"
+	},
+	{
+		"name": "Team 10 / Arindra",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Education",
+		"challengeStatement": "Helping junior high school female students to go through puberty mentally and physically",
+		"members": [
+			"Gilbert Soenjaya Gunawan",
+			"Lidwina Santosa",
+			"Dimas Satria Bintang Prakasa",
+			"Evelin Candratio",
+			"Dzulfikar Ali Maskur"
+		],
+		"mentor": "Ketaren",
+		"app": "Luna"
+	},
+	{
+		"name": "Team 5 / Art",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Art",
+		"challengeStatement": "Our user has been a freelance digital illustrator for 2 years. He/she wants to reach networking since his/her customers are mostly just from his/her circle (relatives, friends, friend of a friend, etc) but he/she doesn't know how to start. He/She try to start their professional career through networking and public relations. But he/she has a gap in approaching their partners to get any professional jobs, activities, or businesses through provided places & information.\nSo, they need an app to plan and manage their soft skill to build and establish relation with their partners. It helps them to track, mention, remind their daily activity through their appropriate calendar which has been arranged.  Our apps is dedicated to the junior local creator who wants to enhance their soft skill management set for better networking.\nTherefore, it works smartly in profiling, mapping, and personalize their user to generate \"The Content Calendar\" template which has been adjusted to the user's portfolio. If they start, it's actively assist user in getting better networking.",
+		"members": [
+			"Stanislaus Sunday",
+			"Ronaldo Kurswell",
+			"Tito Guntur Safirda",
+			"Ang Natasia Stephanie Setiyadi",
+			"Helen Imanuel Hermanto"
+		],
+		"mentor": "Bayu",
+		"app": "Artssistant"
+	},
+	{
+		"name": "Team 2 / SOBSPORT",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Sport",
+		"challengeStatement": "",
+		"members": [
+			"Alfa Centaury Hidayatullah",
+			"Edward Gunawan",
+			"Natanael Kenan Gunawan",
+			"Marshel Aditya Prayoga",
+			"Goldianus Solangius Mbete"
+		],
+		"mentor": "Ari",
+		"app": "SobatFit"
+	},
+	{
+		"name": "Team 4 / Edtech",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Technology",
+		"challengeStatement": "",
+		"members": [
+			"Suwardhana",
+			"Yayang Rahmadina",
+			"Octgi Ristya Perdana",
+			"Iqbal Maulana",
+			"Muhammad Hafiz Siregar"
+		],
+		"mentor": "Kukuh",
+		"app": "Interview Simulator"
+	},
+	{
+		"name": "Team 6 / Mansae",
+		"shift": 0,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Communication",
+		"challengeStatement": "Improve speaking",
+		"members": [
+			"Yeremia Adicipta Santosa",
+			"Septia Rosalina Malik",
+			"Marsha Antonia",
+			"Namira Rizqi Annisa",
+			"Rivera"
+		],
+		"mentor": "Fanny",
+		"app": "Speak Up"
+	},
+	{
+		"name": "Team 4/ Money Gang",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Money",
+		"challengeStatement": "Help Money Problem",
+		"members": [
+			"Wildan Ghiffarie Budhi",
+			"Ammar",
+			"Alvin Hariyono",
+			"Geralda Carnelian Tantra",
+			"Henry David Lie"
+		],
+		"mentor": "Kukuh",
+		"app": "Wisely"
+	},
+	{
+		"name": "Team 5 / Apatite",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Food",
+		"challengeStatement": "Find Hiddem Gem Restaurants",
+		"members": [
+			"Adam Gilbert",
+			"Jessica Vania",
+			"Jessica Wienadi",
+			"Shelin Kezia Handoko",
+			"Jonathan Andrei Wibawa"
+		],
+		"mentor": "Ryan",
+		"app": "Apatite"
+	},
+	{
+		"name": "Team 10 / Sarap",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Humor",
+		"challengeStatement": "Humor",
+		"members": [
+			"Rubby Handojo",
+			"Zefanya Sharon",
+			"Adimas Surya Perdana Putra",
+			"Ahmad Nur Alifullah",
+			"Priscilla Vanny Amelia"
+		],
+		"mentor": "Gabriele",
+		"app": "dulin"
+	},
+	{
+		"name": "Team 3 / Subur Gaming",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Games",
+		"challengeStatement": "Games",
+		"members": [
+			"David Aurelius Tandjung",
+			"Muhammad Alkaff",
+			"Neville Natalio Davisan",
+			"Winner Tjandrawan",
+			"Shelina Linardi"
+		],
+		"mentor": "Januar",
+		"app": "Safe-T"
+	},
+	{
+		"name": "Team 1 / DeeJay",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Music",
+		"challengeStatement": "Connecting musicians with gigs",
+		"members": [
+			"Raden Roro Ayunda Yahdis Sabila",
+			"Fredrik Pridatirta",
+			"Willy Yunus Islami",
+			"Kezia Yovita Chandra",
+			"Natasya Dahliana Lulu"
+		],
+		"mentor": "Jaya",
+		"app": "EVENT JUNGLE"
+	},
+	{
+		"name": "Team 2 / Udin's Adventure",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Technology",
+		"challengeStatement": "Educate children ( 6-12 years old) about mental disorder using technology",
+		"members": [
+			"Alamsyah Oktavian Santoso",
+			"Dhienaqueen",
+			"Michael Hans Kristian Hardjo",
+			"Davin Djayadi",
+			"Dimas Agung Prabowo"
+		],
+		"mentor": "Fanny",
+		"app": "Udin's Adventure"
+	},
+	{
+		"name": "Team 7 afternoon",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Education",
+		"challengeStatement": "Helping young adults cope with stress",
+		"members": [
+			"Dandy Rilo Hariyono",
+			"Kevin Jonathan",
+			"Indi Amelia Kusuma",
+			"Sadrakh Setyo Bekti",
+			"Risa Santoso"
+		],
+		"mentor": "Ari",
+		"app": "Klirio"
+	},
+	{
+		"name": "Team 8 / BRANSM",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Business",
+		"challengeStatement": "Help MSME increase Brand Awareness through Social Media Marketing",
+		"members": [
+			"Ricky Gideon Iskandar Daun",
+			"Melisa Krisnawati",
+			"Samuel Putra Soegiono",
+			"Nicklaus Fumihiro Wibowo",
+			"Naufal Aziz Imaduddin"
+		],
+		"mentor": "Bayu",
+		"app": "Bransm"
+	},
+	{
+		"name": "Team 6 / Game",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Game",
+		"challengeStatement": "Membuat game seru yang melatih leadership khususnya pada skill delegating task bagi young adult (16 - 25 thn).",
+		"members": [
+			"Vincentius Phillips Zhuputra",
+			"Angelica Roseanne",
+			"Felicia Devina Siswanto",
+			"Reinaldo Lewis Lordianto",
+			"Fransiscus Verrol Yaurentius"
+		],
+		"mentor": "Yulibar",
+		"app": "survivAnt"
+	},
+	{
+		"name": "Team 9 / Lai Team",
+		"shift": 1,
+		"challengeType": 1,
+		"challengeIdx": 1,
+		"idea": "Travelling",
+		"challengeStatement": "Help Indonesian Moeslim traveler to get Halal Food & Prayer Room in their top 5 vacation place",
+		"members": [
+			"Bevan Christian",
+			"Bramantya Putra Teja",
+			"Nadya Natasha",
+			"Jennifer Nathania",
+			"Yanandra Dhafa"
+		],
+		"mentor": "Ketaren",
+		"app": "Mosaveer"
+	}
+]
