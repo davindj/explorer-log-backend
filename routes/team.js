@@ -5,111 +5,56 @@ const router = express.Router()
 // Get All Team (Team Home)
 router.get('/', async(req, res)=>{
     const {
-        type: challengeType,
-        idx: challengeIdx,
+        challengeId,
         member
     } = req.query
-    let teams = []
-    //// Aggregate
-    let aggregates = [ // Join sm table challenge
-        {
-            $lookup:
-            {
-              from: "challenges",
-              localField: "challengeType",
-              foreignField: "type",
-              as: "challenge"
-            }
-        },  
-        {	$unwind :"$challenge" },
-        { 
-            $addFields: { 
-                mid: { 
-                    $cond: [ 
-                        { $eq: [ '$challengeIdx', '$challenge.idxChallenge' ] }, 
-                        1, 0 
-                    ] 
-                }
-            } 
-        },
-        { $match : { mid : 1} },
-    ]
-    // Check Table Challenge
-    if(challengeType != null && challengeIdx != null){
-        aggregates.push({
-            $match: {
-                challengeType: parseInt(challengeType),
-                challengeIdx: parseInt(challengeIdx)
-            }
-        })
-    }else if(member != null){
-        aggregates.push({
-            $match: { members: member }
-        })
+
+    const aggregations = []
+    if(challengeId != null){
+        console.log(challengeId)
+        aggregations.push({ $match: { challengeId } })
     }
-    // Join Member
-    aggregates.push(...[
-        {
-            $unwind: "$members"
-        },
-        {
-            $lookup: {
-              from: "explorers",
-              localField: "members",
-              foreignField: "name",
-              as: "member"
-            }
-        },
-        { $unwind: "$member" },
-        { 
-            $group:{
-                _id: "$_id",
-                name: { $first: "$name" },
-                idea: { $first: "$idea" },
-                challengeType: { $first: "$challengeType" },
-                challengeIdx: { $first: "$challengeIdx" },
-                challengeStatement: { $first: "$challengeStatement"},
-                challenge: { $first: "$challenge" },
-                shift: { $first: "$shift" },
-                members: { $push: "$member" } 
-            } 
-        }, 
-    ])
-    // Select as
-    aggregates.push({
-        $project: {
-            name: 1,
-            idea: 1,
-            challenge: {
-                type: "$challenge.type",
-                idxChallenge: "$challenge.idxChallenge",
-                startDate: {
-                    $toLong : "$challenge.startDate"
-                },
-                endDate: {
-                    $toLong : "$challenge.endDate"
-                },
-                isTeam: "$challenge.isTeam",
-            },
-            challengeStatement: 1,
-            shift: 1,
-            members: 1
+    if(member != null){
+        aggregations.push({ $match: { members: member } })
+    }
+    aggregations.push({
+        '$lookup': {
+          'from': 'explorers', 
+          'localField': 'mentor', 
+          'foreignField': 'name', 
+          'as': 'mentor'
+        }
+    });
+    aggregations.push({
+        '$lookup': {
+            'from': 'explorers', 
+            'localField': 'members', 
+            'foreignField': 'name', 
+            'as': 'members'
+        }
+    });
+    aggregations.push({
+        '$lookup': {
+            'from': 'challenges', 
+            'localField': 'challengeId', 
+            'foreignField': 'id', 
+            'as': 'challenge'
+        }
+    });
+    aggregations.push({ $unwind: '$mentor' })
+    aggregations.push({ $unwind: '$challenge' })
+    aggregations.push({
+        '$project': {
+            '_id': 0, '__v': 0, 
+            'members': { '_id': 0, '__v': 0 }, 
+            'mentor': { '_id': 0, '__v': 0 }, 
+            'challenge': { '_id': 0, '__v': 0 }, 
+            'challengeId': 0
         }
     })
-    // Jika kosong maka select all
-    teams = await Team.aggregate(aggregates)
+
+    const teams = await Team.aggregate(aggregations)
     res.status(200).json(teams)
-})
-
-// Get Team Mentor
-router.get('/:id/mentor', async(req,res)=>{
-    const { id } = req.params
-    const team = await Team.findById(id)
-
-    const explorer = await Explorer.findOne({
-        name: { $regex: team.mentor }
-    })
-    res.status(200).json(explorer)
 })
 
 module.exports = router

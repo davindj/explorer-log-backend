@@ -2,7 +2,7 @@
 	{
 		"name": "Team 9 / Martian",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Movie",
 		"challengeStatement": "",
 		"members": [
@@ -12,13 +12,13 @@
 			"Elbert Reyner Gunawan",
 			"Lourensius Dani Anggara Putra"
 		],
-		"mentor": "Gabriele",
+		"mentor": "Gabriele Wijasa",
 		"app": "Cuflix"
 	},
 	{
 		"name": "Team 8 / Symphony no. 8",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Music",
 		"challengeStatement": "Help Prepare Indie Musician Ready to Jump Into Music Business",
 		"members": [
@@ -28,13 +28,13 @@
 			"Novianto Hermawan",
 			"Adhitya Laksamana Bayu Adrian"
 		],
-		"mentor": "Ryan",
+		"mentor": "Yehezkiel Cheryan Tjandra",
 		"app": "Bridge"
 	},
 	{
 		"name": "Team 1 / As Swift As Possible",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Technology",
 		"challengeStatement": "Technology",
 		"members": [
@@ -44,13 +44,13 @@
 			"Chondro Satrio Wibowo",
 			"Muhamad Thio Basudewo"
 		],
-		"mentor": "Januar",
+		"mentor": "Januar Tanzil",
 		"app": "As Swift As Possible"
 	},
 	{
 		"name": "Team 3 / MyPet",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Pets",
 		"challengeStatement": "Membantu pengguna dalam memilih hewan peliharaan berdasarkan faktor finansial",
 		"members": [
@@ -60,13 +60,13 @@
 			"Refo Satya Pramudhito",
 			"Ni Putu Mira Novita Dewi"
 		],
-		"mentor": "Jaya",
+		"mentor": "Jaya Pranata",
 		"app": "MyPet"
 	},
 	{
 		"name": "Team 7 / Food",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Food",
 		"challengeStatement": "Membantu membangun habit untuk menyeimbangkan kalori harian",
 		"members": [
@@ -76,13 +76,13 @@
 			"Galang Aji Susanto",
 			"Laviana Halim"
 		],
-		"mentor": "Yulibar",
+		"mentor": "Yulibar Husni",
 		"app": "Kilo Kalo"
 	},
 	{
 		"name": "Team 10 / Arindra",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Education",
 		"challengeStatement": "Helping junior high school female students to go through puberty mentally and physically",
 		"members": [
@@ -92,13 +92,13 @@
 			"Evelin Candratio",
 			"Dzulfikar Ali Maskur"
 		],
-		"mentor": "Ketaren",
+		"mentor": "John Alan Ketaren",
 		"app": "Luna"
 	},
 	{
 		"name": "Team 5 / Art",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Art",
 		"challengeStatement": "Our user has been a freelance digital illustrator for 2 years. He/she wants to reach networking since his/her customers are mostly just from his/her circle (relatives, friends, friend of a friend, etc) but he/she doesn't know how to start. He/She try to start their professional career through networking and public relations. But he/she has a gap in approaching their partners to get any professional jobs, activities, or businesses through provided places & information.\nSo, they need an app to plan and manage their soft skill to build and establish relation with their partners. It helps them to track, mention, remind their daily activity through their appropriate calendar which has been arranged.  Our apps is dedicated to the junior local creator who wants to enhance their soft skill management set for better networking.\nTherefore, it works smartly in profiling, mapping, and personalize their user to generate \"The Content Calendar\" template which has been adjusted to the user's portfolio. If they start, it's actively assist user in getting better networking.",
 		"members": [
@@ -108,13 +108,13 @@
 			"Ang Natasia Stephanie Setiyadi",
 			"Helen Imanuel Hermanto"
 		],
-		"mentor": "Bayu",
+		"mentor": "Bayu Prasetya",
 		"app": "Artssistant"
 	},
 	{
 		"name": "Team 2 / SOBSPORT",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Sport",
 		"challengeStatement": "",
 		"members": [
@@ -124,13 +124,13 @@
 			"Marshel Aditya Prayoga",
 			"Goldianus Solangius Mbete"
 		],
-		"mentor": "Ari",
+		"mentor": "Ari Kurniawan",
 		"app": "SobatFit"
 	},
 	{
 		"name": "Team 4 / Edtech",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Technology",
 		"challengeStatement": "",
 		"members": [
@@ -140,13 +140,13 @@
 			"Iqbal Maulana",
 			"Muhammad Hafiz Siregar"
 		],
-		"mentor": "Kukuh",
+		"mentor": "Rachmat Kukuh Rahadiansyah",
 		"app": "Interview Simulator"
 	},
 	{
 		"name": "Team 6 / Mansae",
 		"shift": 0,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Communication",
 		"challengeStatement": "Improve speaking",
 		"members": [
@@ -156,13 +156,13 @@
 			"Namira Rizqi Annisa",
 			"Rivera"
 		],
-		"mentor": "Fanny",
+		"mentor": "Fanny Halim",
 		"app": "Speak Up"
 	},
 	{
 		"name": "Team 4/ Money Gang",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Money",
 		"challengeStatement": "Help Money Problem",
 		"members": [
@@ -172,13 +172,13 @@
 			"Geralda Carnelian Tantra",
 			"Henry David Lie"
 		],
-		"mentor": "Kukuh",
+		"mentor": "Rachmat Kukuh Rahadiansyah",
 		"app": "Wisely"
 	},
 	{
 		"name": "Team 5 / Apatite",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Food",
 		"challengeStatement": "Find Hiddem Gem Restaurants",
 		"members": [
@@ -188,13 +188,13 @@
 			"Shelin Kezia Handoko",
 			"Jonathan Andrei Wibawa"
 		],
-		"mentor": "Ryan",
+		"mentor": "Yehezkiel Cheryan Tjandra",
 		"app": "Apatite"
 	},
 	{
 		"name": "Team 10 / Sarap",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Humor",
 		"challengeStatement": "Humor",
 		"members": [
@@ -204,13 +204,13 @@
 			"Ahmad Nur Alifullah",
 			"Priscilla Vanny Amelia"
 		],
-		"mentor": "Gabriele",
+		"mentor": "Gabriele Wijasa",
 		"app": "dulin"
 	},
 	{
 		"name": "Team 3 / Subur Gaming",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Games",
 		"challengeStatement": "Games",
 		"members": [
@@ -220,13 +220,13 @@
 			"Winner Tjandrawan",
 			"Shelina Linardi"
 		],
-		"mentor": "Januar",
+		"mentor": "Januar Tanzil",
 		"app": "Safe-T"
 	},
 	{
 		"name": "Team 1 / DeeJay",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Music",
 		"challengeStatement": "Connecting musicians with gigs",
 		"members": [
@@ -236,13 +236,13 @@
 			"Kezia Yovita Chandra",
 			"Natasya Dahliana Lulu"
 		],
-		"mentor": "Jaya",
+		"mentor": "Jaya Pranata",
 		"app": "EVENT JUNGLE"
 	},
 	{
 		"name": "Team 2 / Udin's Adventure",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Technology",
 		"challengeStatement": "Educate children ( 6-12 years old) about mental disorder using technology",
 		"members": [
@@ -252,13 +252,13 @@
 			"Davin Djayadi",
 			"Dimas Agung Prabowo"
 		],
-		"mentor": "Fanny",
+		"mentor": "Fanny Halim",
 		"app": "Udin's Adventure"
 	},
 	{
 		"name": "Team 7 afternoon",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Education",
 		"challengeStatement": "Helping young adults cope with stress",
 		"members": [
@@ -268,13 +268,13 @@
 			"Sadrakh Setyo Bekti",
 			"Risa Santoso"
 		],
-		"mentor": "Ari",
+		"mentor": "Ari Kurniawan",
 		"app": "Klirio"
 	},
 	{
 		"name": "Team 8 / BRANSM",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Business",
 		"challengeStatement": "Help MSME increase Brand Awareness through Social Media Marketing",
 		"members": [
@@ -284,13 +284,13 @@
 			"Nicklaus Fumihiro Wibowo",
 			"Naufal Aziz Imaduddin"
 		],
-		"mentor": "Bayu",
+		"mentor": "Bayu Prasetya",
 		"app": "Bransm"
 	},
 	{
 		"name": "Team 6 / Game",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Game",
 		"challengeStatement": "Membuat game seru yang melatih leadership khususnya pada skill delegating task bagi young adult (16 - 25 thn).",
 		"members": [
@@ -300,13 +300,13 @@
 			"Reinaldo Lewis Lordianto",
 			"Fransiscus Verrol Yaurentius"
 		],
-		"mentor": "Yulibar",
+		"mentor": "Yulibar Husni",
 		"app": "survivAnt"
 	},
 	{
 		"name": "Team 9 / Lai Team",
 		"shift": 1,
-		"challengeIdx": 1,
+		"challengeId": "1",
 		"idea": "Travelling",
 		"challengeStatement": "Help Indonesian Moeslim traveler to get Halal Food & Prayer Room in their top 5 vacation place",
 		"members": [
@@ -316,7 +316,7 @@
 			"Jennifer Nathania",
 			"Yanandra Dhafa"
 		],
-		"mentor": "Ketaren",
+		"mentor": "John Alan Ketaren",
 		"app": "Mosaveer"
 	}
 ]

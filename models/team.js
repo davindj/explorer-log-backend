@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const teamSchema = new mongoose.Schema({
     name: String,
     idea: String,
-    challengeIdx: Number,
+    challengeId: String,
     shift: Number,
     members: [String],
     challengeStatement: String,
