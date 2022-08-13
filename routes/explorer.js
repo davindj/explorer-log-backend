@@ -7,77 +7,24 @@ router.get('/', async(req, res)=>{
     const {
         mentor
     } = req.query
-    let explorers = []
+
+    const aggregations = []
     if(mentor == 1){
-        explorers = await Explorer.aggregate([
-            { $match: { shift:2 } },
-            { $sort: { shift:1, name:1 } },
-            { 
-                $project: { 
-                    _id: 0,
-                    name: 1,
-                    expertise: 1,
-                    image: 1,
-                    shift: 1
-                }
-            }
-        ])
+        aggregations.push({ $match: { isMentor: true } })
     }else if(mentor == 0){
-        explorers = await Explorer.aggregate([
-            { 
-                $match: {
-                    $or: [
-                        { shift: 0 },
-                        { shift: 1 },
-                    ],
-                }
-            },
-            { $sort: { shift:1, name:1 } },
-            { 
-                $project: { 
-                    _id: 0,
-                    name: 1,
-                    expertise: 1,
-                    image: 1,
-                    shift: 1
-                }
-            }
-        ])
-    }else{
-        explorers = await Explorer.aggregate([
-            { $sort: { shift:1, name:1 } },
-            { 
-                $project: { 
-                    _id: 0,
-                    name: 1,
-                    expertise: 1,
-                    image: 1,
-                    shift: 1
-                }
-            }
-        ])
+        aggregations.push({ $match: { isMentor: false } })
     }
+    aggregations.push({ $sort: { shift:1, name:1 } })
+    aggregations.push({ $project: { _id:0, __v:0 } })
+
+    const explorers = await Explorer.aggregate(aggregations)
     res.status(200).json(explorers)
 })
 
 // Get Specific Explorer
-router.get('/:name/mentor', async(req,res)=>{
+router.get('/:name', async(req,res)=>{
     const { name } = req.params
-    const member = await Explorer.findOne({name})
-
-    const [explorer] = await Explorer.aggregate([
-        { $match: { name: member.mentor } },
-        { 
-            $project: { 
-                _id: 0,
-                name: 1,
-                expertise: 1,
-                image: 1,
-                shift: 1
-            }
-        }
-    ])
-
+    const explorer = await Explorer.findOne({name}, { _id:0, __v:0 })
     res.status(200).json(explorer)
 })
 
