@@ -44,6 +44,12 @@ router.get('/', async(req, res)=>{
     aggregations.push({ $unwind: '$mentor' })
     aggregations.push({ $unwind: '$challenge' })
     aggregations.push({
+        $set: {
+            "challenge.startDate": { $toLong: "$challenge.startDate" },
+            "challenge.endDate": { $toLong: "$challenge.endDate" },
+        }
+    })
+    aggregations.push({
         '$project': {
             '_id': 0, '__v': 0, 
             'members': { '_id': 0, '__v': 0 }, 
@@ -51,6 +57,9 @@ router.get('/', async(req, res)=>{
             'challenge': { '_id': 0, '__v': 0 }, 
             'challengeId': 0
         }
+    })
+    aggregations.push({
+        $sort: { name: 1 }
     })
 
     const teams = await Team.aggregate(aggregations)
