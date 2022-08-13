@@ -29,9 +29,9 @@ async function main(){
 	const teams = []
 	try{
 		console.log("Load data...")
-		explorers.concat(loadExplorers())
-		challenges.concat(loadChallenges())
-		teams.concat(loadTeams())
+		explorers.push(...loadExplorers())
+		challenges.push(...loadChallenges())
+		teams.push(...loadTeams())
 		console.log("Data loaded!")
 	}catch(err){
 		console.log(err)
