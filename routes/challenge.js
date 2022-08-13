@@ -5,18 +5,11 @@ const router = express.Router()
 // Get All Challenge (Challenge Home)
 router.get('/', async(req, res)=>{
     const challenges = await Challenge.aggregate([
+        { $project: { _id:0, __v:0 } },
         {
-            $project: {
-                _id: 0,
-                type: 1,
-                idxChallenge: 1,
-                startDate: {
-                    $toLong : "$startDate"
-                },
-                endDate: {
-                    $toLong : "$endDate"
-                },
-                isTeam: 1
+            $set: {
+                startDate: { $toLong: "$startDate" },
+                endDate: { $toLong: "$endDate" },
             }
         },
         { $sort: {startDate: -1} }
