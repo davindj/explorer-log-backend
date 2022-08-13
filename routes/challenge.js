@@ -7,6 +7,7 @@ router.get('/', async(req, res)=>{
     const challenges = await Challenge.aggregate([
         {
             $project: {
+                _id: 0,
                 type: 1,
                 idxChallenge: 1,
                 startDate: {

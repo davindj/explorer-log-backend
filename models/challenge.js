@@ -5,10 +5,7 @@ const challengeSchema = new mongoose.Schema({
     idxChallenge: Number,
     startDate: Date,
     endDate: Date,
-    isTeam: Boolean,
-    teams: [String],
-    mentor: String,
-    app: String
+    isTeam: Boolean
 });
 
 const Challenge = mongoose.model('Challenge', challengeSchema);
