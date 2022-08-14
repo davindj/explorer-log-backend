@@ -11,7 +11,6 @@ router.get('/', async(req, res)=>{
 
     const aggregations = []
     if(challengeId != null){
-        console.log(challengeId)
         aggregations.push({ $match: { challengeId } })
     }
     if(member != null){
@@ -58,9 +57,7 @@ router.get('/', async(req, res)=>{
             'challengeId': 0
         }
     })
-    aggregations.push({
-        $sort: { name: 1 }
-    })
+    aggregations.push({ $sort: { name: 1 } })
 
     const teams = await Team.aggregate(aggregations)
     res.status(200).json(teams)
